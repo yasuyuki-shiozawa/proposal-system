@@ -1,0 +1,17 @@
+【Claude Codeへの簡単な指示】
+
+以下のプロジェクトをGitHubにアップロードしてください：
+
+プロジェクトパス: C:\Users\shioz\Downloads\proposal-system
+GitHubユーザー名: yasuyuki-shiozawa
+リポジトリ名: proposal-system
+説明: 入札提案書作成支援システム
+
+Personal Access Token: [ここにトークンを貼り付け]
+
+手順：
+1. 上記のディレクトリに移動
+2. GitHubにリポジトリを作成（トークンを使用）
+3. git pushでアップロード
+
+よろしくお願いします。
